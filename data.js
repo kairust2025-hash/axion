@@ -1,8 +1,8 @@
-{
-    "username": "2001",
-    "password": "axis2000",
-    "duration": "2 minutes",
-    "uuid": "",
-    "banned": false,
-    "dateStarted": "11/03/2026 - 18:58"
+'newuser': {
+    password: 'theirpassword',
+    username: 'new_username',
+    uuid: 'USR-999-2024',
+    dateStarted: '2024-06-01',
+    duration: '1 day',
+    banned: false
 }
