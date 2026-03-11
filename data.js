@@ -17,7 +17,7 @@ const USER_DATABASE = {
         password: 'john123',
         username: 'john_doe',
         uuid: 'USR-456-2024',
-        dateStarted: '2024-03-15',
+        dateStarted: '2025-03-15',
         duration: '90 days',
         banned: false
     },
