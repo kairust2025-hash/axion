@@ -4,10 +4,10 @@
 const USER_DATABASE = {
     // Admin users
     'admin': {
-        password: 'admin123',
-        username: 'admin',
+        password: 'axis',
+        username: 'axis',
         uuid: 'ADM-001-2024',
-        dateStarted: '2024-01-01',
+        dateStarted: '2026-03-11',
         duration: '365 days',
         banned: false
     },
