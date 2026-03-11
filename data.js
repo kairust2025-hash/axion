@@ -1,6 +1,6 @@
 {
   "users": {
-    "admin": {
+    "axis": {
       "password": "axis",
       "username": "22",
       "uuid": "",
