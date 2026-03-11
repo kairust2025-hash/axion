@@ -1,8 +1,8 @@
 {
-    "username": "JohnDoe",
-    "password": "securepass123",
-    "duration": "30 days",
-    "uuid": "123e4567-e89b-12d3-a456-426614174000",
+    "username": "2001",
+    "password": "axis2000",
+    "duration": "2 minutes",
+    "uuid": "",
     "banned": false,
-    "dateStarted": "2024-01-01"
+    "dateStarted": "11/03/2026 - 18:58"
 }
