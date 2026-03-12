@@ -1,13 +1,12 @@
 {
   "users": {
-    "axis": {
-      "password": "axis",
-      "username": "443",
-      "hwid": "HWID-1DC7FA7B-0001F5",
-      "dateStarted": "2026-03-01",
+    "admin": {
+      "password": "Admin@2024!",
+      "username": "admin",
+      "hwid": "HWID-4A9EFF-001A2B",
+      "dateStarted": "2024-01-01",
       "duration": "365 days",
-      "banned": false,
-      "role": "administrator"
+      "banned": false
     },
     "john_doe": {
       "password": "JohnDoe123!",
@@ -15,8 +14,7 @@
       "hwid": "HWID-7C3D5E-2F4A6B",
       "dateStarted": "2024-03-15",
       "duration": "90 days",
-      "banned": false,
-      "role": "user"
+      "banned": false
     },
     "sarah_smith": {
       "password": "Sarah2024$",
@@ -24,8 +22,7 @@
       "hwid": "HWID-9B2A1C-8D4E6F",
       "dateStarted": "2024-02-01",
       "duration": "180 days",
-      "banned": false,
-      "role": "user"
+      "banned": false
     },
     "mike_wilson": {
       "password": "MikeWilson456!",
@@ -33,8 +30,7 @@
       "hwid": "HWID-3E5F7A-1C2B4D",
       "dateStarted": "2024-04-10",
       "duration": "30 days",
-      "banned": false,
-      "role": "user"
+      "banned": false
     },
     "emma_davis": {
       "password": "EmmaDavis789@",
@@ -42,8 +38,7 @@
       "hwid": "HWID-6A8B9C-3D4E5F",
       "dateStarted": "2024-01-20",
       "duration": "365 days",
-      "banned": false,
-      "role": "user"
+      "banned": false
     },
     "banned_user": {
       "password": "Banned123!",
@@ -51,9 +46,7 @@
       "hwid": "HWID-2C4D6E-8F0A1B",
       "dateStarted": "2023-12-01",
       "duration": "30 days",
-      "banned": true,
-      "role": "user",
-      "banReason": "Account sharing detected"
+      "banned": true
     },
     "expired_user": {
       "password": "Expired2023$",
@@ -61,8 +54,7 @@
       "hwid": "HWID-5F7G8H-2J3K4L",
       "dateStarted": "2023-11-15",
       "duration": "30 days",
-      "banned": false,
-      "role": "user"
+      "banned": false
     },
     "premium_peter": {
       "password": "PremiumPeter!2024",
@@ -70,8 +62,7 @@
       "hwid": "HWID-8H9J0K-4L5M6N",
       "dateStarted": "2024-02-28",
       "duration": "365 days",
-      "banned": false,
-      "role": "user"
+      "banned": false
     },
     "lisa_anderson": {
       "password": "LisaAnderson!23",
@@ -79,8 +70,7 @@
       "hwid": "HWID-1M2N3P-5Q6R7S",
       "dateStarted": "2024-03-01",
       "duration": "60 days",
-      "banned": false,
-      "role": "user"
+      "banned": false
     },
     "tester_account": {
       "password": "TestAccount123!",
@@ -88,8 +78,7 @@
       "hwid": "HWID-4T5U6V-7W8X9Y",
       "dateStarted": "2024-04-15",
       "duration": "7 days",
-      "banned": false,
-      "role": "trial"
+      "banned": false
     }
   }
 }
