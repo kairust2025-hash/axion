@@ -1,10 +1,10 @@
 {
   "users": {
-    "admin": {
-      "password": "Admin@2024!",
-      "username": "admin",
-      "hwid": "HWID-4A9EFF-001A2B",
-      "dateStarted": "2024-01-01",
+    "axis": {
+      "password": "axis2001!",
+      "username": "owner",
+      "hwid": "232312",
+      "dateStarted": "2026-03-01",
       "duration": "365 days",
       "banned": false
     },
