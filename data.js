@@ -2,43 +2,94 @@
   "users": {
     "axis": {
       "password": "axis",
-      "username": "22",
-      "uuid": "23212",
-      "dateStarted": "2026-03-10",
+      "username": "443",
+      "hwid": "HWID-1DC7FA7B-0001F5",
+      "dateStarted": "2026-03-01",
       "duration": "365 days",
-      "banned": false
+      "banned": false,
+      "role": "administrator"
     },
-    "john": {
-      "password": "john123",
-      "username": "joh",
-      "uuid": "",
+    "john_doe": {
+      "password": "JohnDoe123!",
+      "username": "john_doe",
+      "hwid": "HWID-7C3D5E-2F4A6B",
       "dateStarted": "2024-03-15",
       "duration": "90 days",
-      "banned": false
+      "banned": false,
+      "role": "user"
     },
-    "sarah": {
-      "password": "sarah",
-      "username": "sarah",
-      "uuid": "USR-789-2024",
-      "dateStarted": "2026-03-01",
+    "sarah_smith": {
+      "password": "Sarah2024$",
+      "username": "sarah_smith",
+      "hwid": "HWID-9B2A1C-8D4E6F",
+      "dateStarted": "2024-02-01",
       "duration": "180 days",
-      "banned": false
+      "banned": false,
+      "role": "user"
     },
-    "demo": {
-      "password": "demo123",
-      "username": "demo_user",
-      "uuid": "DEMO-001-2024",
-      "dateStarted": "2024-01-01",
+    "mike_wilson": {
+      "password": "MikeWilson456!",
+      "username": "mike_wilson",
+      "hwid": "HWID-3E5F7A-1C2B4D",
+      "dateStarted": "2024-04-10",
       "duration": "30 days",
-      "banned": false
+      "banned": false,
+      "role": "user"
+    },
+    "emma_davis": {
+      "password": "EmmaDavis789@",
+      "username": "emma_davis",
+      "hwid": "HWID-6A8B9C-3D4E5F",
+      "dateStarted": "2024-01-20",
+      "duration": "365 days",
+      "banned": false,
+      "role": "user"
     },
     "banned_user": {
-      "password": "banned123",
+      "password": "Banned123!",
       "username": "banned_user",
-      "uuid": "BAN-999-2024",
-      "dateStarted": "2024-01-01",
+      "hwid": "HWID-2C4D6E-8F0A1B",
+      "dateStarted": "2023-12-01",
       "duration": "30 days",
-      "banned": true
+      "banned": true,
+      "role": "user",
+      "banReason": "Account sharing detected"
+    },
+    "expired_user": {
+      "password": "Expired2023$",
+      "username": "expired_user",
+      "hwid": "HWID-5F7G8H-2J3K4L",
+      "dateStarted": "2023-11-15",
+      "duration": "30 days",
+      "banned": false,
+      "role": "user"
+    },
+    "premium_peter": {
+      "password": "PremiumPeter!2024",
+      "username": "premium_peter",
+      "hwid": "HWID-8H9J0K-4L5M6N",
+      "dateStarted": "2024-02-28",
+      "duration": "365 days",
+      "banned": false,
+      "role": "user"
+    },
+    "lisa_anderson": {
+      "password": "LisaAnderson!23",
+      "username": "lisa_anderson",
+      "hwid": "HWID-1M2N3P-5Q6R7S",
+      "dateStarted": "2024-03-01",
+      "duration": "60 days",
+      "banned": false,
+      "role": "user"
+    },
+    "tester_account": {
+      "password": "TestAccount123!",
+      "username": "tester_account",
+      "hwid": "HWID-4T5U6V-7W8X9Y",
+      "dateStarted": "2024-04-15",
+      "duration": "7 days",
+      "banned": false,
+      "role": "trial"
     }
   }
 }
