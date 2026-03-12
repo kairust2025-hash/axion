@@ -3,7 +3,7 @@
     "axis": {
       "password": "axis",
       "username": "22",
-      "uuid": "HWID-57E55A6A-0001F5",
+      "uuid": "23212",
       "dateStarted": "2026-03-10",
       "duration": "365 days",
       "banned": false
