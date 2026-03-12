@@ -8,12 +8,12 @@
       "duration": "365 days",
       "banned": false
     },
-    "john_doe": {
-      "password": "JohnDoe123!",
-      "username": "john_doe",
-      "hwid": "HWID-7C3D5E-2F4A6B",
-      "dateStarted": "2024-03-15",
-      "duration": "90 days",
+    "max2891!": {
+      "password": "max1554!",
+      "username": "max",
+      "hwid": "",
+      "dateStarted": "2026-03-1",
+      "duration": "365 days",
       "banned": false
     },
     "sarah_smith": {
