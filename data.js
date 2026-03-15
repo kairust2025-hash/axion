@@ -3,7 +3,7 @@
     "axis": {
       "password": "axis2001!",
       "username": "owner",
-      "hwid": "HWID-7548EA0A-1050A3",
+      "hwid": "HWID-0F1A7257",
       "dateStarted": "2026-03-01",
       "duration": "365 days",
       "banned": false
